@@ -11,7 +11,7 @@ Useful for administrative, HR, or project file systems where many folders need t
 - Reports how many folders were created, already existed, or missing the target subfolder
 
 ## Example
-
+```
 Base Path
 ├── Employee A
 │   ├── Personal Documents
@@ -19,7 +19,7 @@ Base Path
 ├── Employee B
 │   ├── Personal Documents
 │       ├── Driver's License
-
+```
 ## Configuration
 
 Edit these variables in the script:
