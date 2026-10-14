@@ -41,3 +41,5 @@ Standard library only (os)
 The script is safe to re-run.
 
 Existing folders are not overwritten.
+
+This was something I used at my Admin Internship to automate time-consuming tasks.
